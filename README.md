@@ -2,19 +2,19 @@
 
 A beginner-friendly command-line Todo List Manager built with Python. This application allows users to organize their daily tasks by adding, viewing, and removing tasks while demonstrating fundamental Python programming concepts.
 
-## 📌 Features
+## Features
 
-- ➕ Add new tasks
-- 📋 View all saved tasks
-- 🗑️ Remove completed or unwanted tasks
-- 🖥️ Simple command-line interface
-- 👨‍💻 Easy to understand and beginner-friendly
+-  Add new tasks
+-  View all saved tasks
+-  Remove completed or unwanted tasks
+-  Simple command-line interface
+-  Easy to understand and beginner-friendly
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 python-todo-list-manager/
@@ -25,7 +25,7 @@ python-todo-list-manager/
 └── .gitignore
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -51,7 +51,7 @@ cd python-todo-list-manager
 python todo_list.py
 ```
 
-## 💻 Example
+##  Example
 
 ```
 ====== Todo List Manager ======
@@ -69,7 +69,7 @@ Complete Python assignment
 Task added successfully!
 ```
 
-## 📚 What I Learned
+## What I Learned
 
 This project helped me practice:
 
@@ -81,7 +81,7 @@ This project helped me practice:
 - User input (`input()`)
 - Writing clean and organized code
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Save tasks to a file
 - Edit existing tasks
@@ -90,11 +90,11 @@ This project helped me practice:
 - Search for tasks
 - Build a graphical user interface (GUI)
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
